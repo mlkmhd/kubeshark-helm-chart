@@ -1,0 +1,7 @@
+
+image: kubeshark/kubeshark
+imageTag: 37.0
+
+service:
+  type: NodePort
+  nodePort: 32151
